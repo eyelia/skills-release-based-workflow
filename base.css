@@ -4,7 +4,8 @@
 */
 
 html,
-body,
+body {
+      background- colour : black;
 div,
 span,
 applet,
